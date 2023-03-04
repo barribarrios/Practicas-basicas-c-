@@ -1,5 +1,4 @@
-// chavales hoy voy a mostrar mis dos huevos en directo
-
+// chavales hoy voy a mostraros lo mas epico que vais a ver
 #include <iostream>
 
 int main(){
